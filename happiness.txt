@@ -7,3 +7,8 @@ rome was not built in a day!
 You may have lost a battle, but you can still win the war! So gear up, rise from your defeat, success lies just ahead!
 
 nlnflasjdflzsfzdf
+
+This line was added after learning the git push , git remote commands:
+----------------------------------------------------------------------
+
+If you think you are strong or weak, your'e right! -Henry Ford
